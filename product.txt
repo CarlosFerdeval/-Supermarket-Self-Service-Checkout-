@@ -1,0 +1,4 @@
+P100, Milk,2 Litres,2.50
+P200, Bread,500g,1.25
+P300,Sugar,1kg,3.25
+P400,Rice,1kg,4.00

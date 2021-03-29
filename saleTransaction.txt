@@ -1,0 +1,44 @@
+
+Transaction amount:   $3.75 
+Date and Time: 2020-12-03 12:30:16
+Transaction amount:   $2.5 
+Date and Time: 2020-12-03 12:32:36 
+
+Transaction amount:   $1.25 
+Date and Time: 2020-12-03 12:33:06 
+
+Transaction amount:   $1.25 
+Date and Time: 2020-12-03 23:01:22 
+
+Transaction amount:   $1.25 
+Date and Time: 2020-12-04 04:52:16 
+
+
+
+Transaction amount:   $4.0 
+Date and Time: 2020-12-09 07:02:18 
+
+Transaction amount:   $2.5 
+Date and Time: 2020-12-09 10:43:35 
+
+Transaction amount:   $3.75 
+Date and Time: 2020-12-09 10:43:35 
+
+Transaction amount:   $2.5 
+Date and Time: 2020-12-09 12:29:25 
+
+Transaction amount:   $5.75 
+Date and Time: 2020-12-09 12:42:43 
+
+Transaction amount:   $2.5 
+Date and Time: 2020-12-09 12:54:13 
+
+Transaction amount:   $5.75 
+Date and Time: 2020-12-09 13:01:03 
+
+Transaction amount:   $1.25 
+Date and Time: 2020-12-09 13:01:03 
+
+Transaction amount:   $1.25 
+Date and Time: 2020-12-09 13:05:12 
+
